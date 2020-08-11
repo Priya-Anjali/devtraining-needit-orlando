@@ -35,6 +35,10 @@
         <sys_updated_on>2019-03-12 16:49:17</sys_updated_on>
         <timeline_page/>
         <title>All</title>
+        <u_employee_name/>
+        <u_employee_number/>
+        <u_no_of_hours/>
+        <u_no_of_leaves/>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
